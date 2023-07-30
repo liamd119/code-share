@@ -1,4 +1,4 @@
-run = "cowsay Configure me!"
+run = "cowsay Nothing to run! this is for sharing code snippets"
 
 [nix]
 channel = "stable-22_11"
